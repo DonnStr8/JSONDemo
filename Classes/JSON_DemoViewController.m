@@ -11,8 +11,8 @@
 
 
 // Replace with your Flickr key
-NSString *const FlickrAPIKey = @"2c6c0156b6278f7c49b4119b926dda40";
-NSString *const FlickrSecret = @"6447cd35b8b124d8";
+NSString *const FlickrAPIKey = @"yourAPIKey";
+NSString *const FlickrSecret = @"yourSecretKey";
 
 @implementation JSON_DemoViewController
 
