@@ -1,0 +1,781 @@
+TJSON Demo
+v7
+r0
+t300296066.401958
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/JSON Demo.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/Info.plist" JSON_Demo-Info.plist
+cCompileXIB "/Users/donnstraight/Documents/JSON Demo/MainWindow.xib"
+cCompileXIB "/Users/donnstraight/Documents/JSON Demo/JSON_DemoViewController.xib"
+cProcessPCH /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch.gch JSON_Demo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch.gch JSON_Demo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/main.o" "/Users/donnstraight/Documents/JSON Demo/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoAppDelegate.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoViewController.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSObject+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSString+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonBase.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonParser.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonWriter.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/ZoomedImageView.o" "/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/main.o" "/Users/donnstraight/Documents/JSON Demo/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoAppDelegate.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo" normal armv6
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoViewController.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSObject+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSString+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonBase.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonParser.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonWriter.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/ZoomedImageView.o" "/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo" normal armv7
+cCreateUniversalBinary "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app.dSYM" "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo"
+cProcessProductPackaging "/Users/donnstraight/Library/MobileDevice/Provisioning Profiles/D058B043-360B-4A9C-85CE-4A7F4241D014.mobileprovision" "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision"
+cTouch "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent"
+cCodeSign "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.h
+c000000004C34FBE900000000000001FF
+t1278540777
+s511
+i<UIKit/UIKit.h>
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m
+c000000004C35DECD0000000000000B31
+t1278598861
+s2865
+i"JSON_DemoAppDelegate.h"
+i"JSON_DemoViewController.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.h
+c000000004C35E6EB00000000000003B6
+t1278600939
+s950
+i<UIKit/UIKit.h>
+i"JSON.h"
+i"ZoomedImageView.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m
+c000000004C35EEA60000000000002588
+t1278602918
+s9608
+i"JSON_DemoViewController.h"
+i"JSON.h"
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.h
+c000000004AB19BE100000000000000F6
+t1253153761
+s246
+
+N/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m
+c000000004AB1A0D80000000000000BB5
+t1253155032
+s2997
+i"ZoomedImageView.h"
+
+N/Users/donnstraight/Documents/JSON Demo/JSON_DemoViewController.xib
+c000000004C34FBE90000000000001A4D
+t1278540777
+s6733
+
+N/Users/donnstraight/Documents/JSON Demo/JSON_Demo_Prefix.pch
+c000000004C34FBE900000000000000BB
+t1278540777
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/donnstraight/Documents/JSON Demo/MainWindow.xib
+c000000004C34FBE90000000000004E41
+t1278540777
+s20033
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app
+t1278603266
+s374
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app.dSYM
+t1278603266
+s102
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/Info.plist
+t1278603263
+s736
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo
+t1278603266
+s145332
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON_DemoViewController.nib
+t1278603263
+s795
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/MainWindow.nib
+t1278603263
+s1127
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/PkgInfo
+t1278603263
+s8
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/ResourceRules.plist
+t1278603263
+s485
+
+N/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision
+t1278603266
+s7251
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent
+t1278603266
+s428
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo
+t1278603265
+s71736
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo.LinkFileList
+c000000004C35EFFF0000000000000516
+t1278603263
+s1302
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoAppDelegate.o
+t1278603265
+s49324
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoViewController.o
+t1278603265
+s67296
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSObject+SBJSON.o
+t1278603265
+s8296
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSString+SBJSON.o
+t1278603265
+s8224
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJSON.o
+t1278603265
+s18480
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonBase.o
+t1278603265
+s12912
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonParser.o
+t1278603265
+s34516
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonWriter.o
+t1278603265
+s24708
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/ZoomedImageView.o
+t1278603265
+s38968
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/main.o
+t1278603265
+s6440
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo
+t1278603265
+s67508
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo.LinkFileList
+c000000004C35EFFF0000000000000516
+t1278603263
+s1302
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoAppDelegate.o
+t1278603265
+s49236
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoViewController.o
+t1278603265
+s66780
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSObject+SBJSON.o
+t1278603265
+s8256
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSString+SBJSON.o
+t1278603265
+s8180
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJSON.o
+t1278603265
+s18232
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonBase.o
+t1278603265
+s12788
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonParser.o
+t1278603265
+s32468
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonWriter.o
+t1278603265
+s24320
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/ZoomedImageView.o
+t1278603265
+s38584
+
+N/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/main.o
+t1278603265
+s6424
+
+N/Users/donnstraight/Documents/JSON Demo/main.m
+c000000004C34FBE9000000000000017F
+t1278540777
+s383
+i<UIKit/UIKit.h>
+
+N/Users/donnstraight/Library/MobileDevice/Provisioning Profiles/D058B043-360B-4A9C-85CE-4A7F4241D014.mobileprovision
+c000000004BE0444F0000000000001C53
+t1272988751
+s7251
+
+N/var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch.gch
+t1278603264
+s10290736
+
+N/var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch.gch
+t1278603264
+s9831984
+
+NJSON_Demo-Info.plist
+c000000004C35EF21000000000000038F
+t1278603041
+s911
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300296063#300296063#0(0"0(0#1#0"8616865728#0"0#
+
+CCodeSign "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"
+s300296066.115326
+e300296066.401839
+r1
+xCodeSign
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app
+lSLF07#2@45"CodeSign "build/Debug-iphoneos/JSON Demo.app"300296066#300296066#0(0"0(0#0#74"/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app8620280768#671"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Donn Straight (772C6L2U3E)" "--resource-rules=/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/ResourceRules.plist" --entitlements "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent" "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoAppDelegate.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296064.853438
+e300296065.016169
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoAppDelegate.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m300296064#300296065#0(0"0(0#0#70"/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m8621821568#1837"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoAppDelegate.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoViewController.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.005610
+e300296065.170036
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoViewController.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m300296065#300296065#0(0"0(0#0#73"/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m8612397760#1843"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON_DemoViewController.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSObject+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.016269
+e300296065.058770
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSObject+SBJSON.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m300296065#300296065#0(0"0(0#0#70"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m8622648064#1832"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSObject+SBJSON.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSString+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.058877
+e300296065.101340
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSString+SBJSON.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m300296065#300296065#0(0"0(0#0#70"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m8603730368#1832"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/NSString+SBJSON.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.101444
+e300296065.189207
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJSON.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m300296065#300296065#0(0"0(0#0#61"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m8620217312#1814"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJSON.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonBase.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.170123
+e300296065.228779
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonBase.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m300296065#300296065#0(0"0(0#0#65"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m8622144672#1822"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonBase.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonParser.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.189314
+e300296065.302918
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonParser.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m300296065#300296065#0(0"0(0#0#67"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m8620023232#1826"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonParser.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonWriter.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.228885
+e300296065.330770
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonWriter.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m300296065#300296065#0(0"0(0#0#67"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m8619703968#1826"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/SBJsonWriter.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/ZoomedImageView.o" "/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296065.303027
+e300296065.390920
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/ZoomedImageView.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m300296065#300296065#0(0"0(0#0#65"/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m8604406656#1827"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/ZoomedImageView.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/main.o" "/Users/donnstraight/Documents/JSON Demo/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296064.852186
+e300296065.005376
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/main.o
+x/Users/donnstraight/Documents/JSON Demo/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/donnstraight/Documents/JSON Demo/main.m300296064#300296065#0(0"0(0#0#46"/Users/donnstraight/Documents/JSON Demo/main.m8624807008#1797"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/main.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoAppDelegate.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.388912
+e300296065.449088
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoAppDelegate.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m300296065#300296065#0(0"0(0#0#70"/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m8616333600#1837"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoAppDelegate.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoAppDelegate.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoViewController.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.449189
+e300296065.544750
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoViewController.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m300296065#300296065#0(0"0(0#0#73"/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m8621502688#1843"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON_DemoViewController.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON_DemoViewController.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSObject+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.544850
+e300296065.589843
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSObject+SBJSON.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m300296065#300296065#0(0"0(0#0#70"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m8623043520#1832"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSObject+SBJSON.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSObject+SBJSON.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSString+SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.589946
+e300296065.634693
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSString+SBJSON.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m300296065#300296065#0(0"0(0#0#70"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m8622319808#1832"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/NSString+SBJSON.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/NSString+SBJSON.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJSON.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.634797
+e300296065.699493
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJSON.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m300296065#300296065#0(0"0(0#0#61"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m8622080768#1814"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJSON.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJSON.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonBase.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.699592
+e300296065.769324
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonBase.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m300296065#300296065#0(0"0(0#0#65"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m8622718816#1822"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonBase.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonBase.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonParser.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.710407
+e300296065.840182
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m300296065#300296065#0(0"0(0#0#67"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m8622093760#1826"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonParser.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonParser.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonWriter.o" "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.769419
+e300296065.852156
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m300296065#300296065#0(0"0(0#0#67"/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m8619747776#1826"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/JSON/SBJsonWriter.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/SBJsonWriter.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/ZoomedImageView.o" "/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.840299
+e300296065.916088
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/ZoomedImageView.o
+x/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m300296065#300296065#0(0"0(0#0#65"/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m8614518016#1827"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/Classes/ZoomedImageView.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/ZoomedImageView.o"0#
+
+CCompileC "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/main.o" "/Users/donnstraight/Documents/JSON Demo/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296065.330881
+e300296065.388817
+r1
+xCompileC
+xbuild/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/main.o
+x/Users/donnstraight/Documents/JSON Demo/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/donnstraight/Documents/JSON Demo/main.m300296065#300296065#0(0"0(0#0#46"/Users/donnstraight/Documents/JSON Demo/main.m8622599712#1797"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -include /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch -c "/Users/donnstraight/Documents/JSON Demo/main.m" -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/donnstraight/Documents/JSON Demo/JSON_DemoViewController.xib"
+s300296063.449877
+e300296063.795761
+r1
+xCompileXIB
+x/Users/donnstraight/Documents/JSON Demo/JSON_DemoViewController.xib
+lSLF07#2@38"CompileXIB JSON_DemoViewController.xib300296063#300296063#0(0"0(0#0#67"/Users/donnstraight/Documents/JSON Demo/JSON_DemoViewController.xib8602306240#579"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON_DemoViewController.nib" "/Users/donnstraight/Documents/JSON Demo/JSON_DemoViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/donnstraight/Documents/JSON Demo/MainWindow.xib"
+s300296063.448740
+e300296063.810689
+r1
+xCompileXIB
+x/Users/donnstraight/Documents/JSON Demo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300296063#300296063#0(0"0(0#0#54"/Users/donnstraight/Documents/JSON Demo/MainWindow.xib8604593152#553"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/MainWindow.nib" "/Users/donnstraight/Documents/JSON Demo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource "build/Debug-iphoneos/JSON Demo.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s300296063.067288
+e300296063.448599
+r1
+xCpResource
+xbuild/Debug-iphoneos/JSON Demo.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist300296063#300296063#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist4923330986020728832#488"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"0#
+
+CCreateUniversalBinary "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo" normal "armv6 armv7"
+s300296066.001703
+e300296066.050540
+r1
+xCreateUniversalBinary
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary "build/Debug-iphoneos/JSON Demo.app/JSON Demo" normal "armv6 armv7"300296066#300296066#0(0"0(0#0#51"/Users/donnstraight/Documents/JSON Demo/armv6 armv78622526656#546"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo" "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo" -output "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo"0#
+
+CGenerateDSYMFile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app.dSYM" "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo"
+s300296066.050630
+e300296066.096403
+r1
+xGenerateDSYMFile
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app.dSYM
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo
+lSLF07#2@105"GenerateDSYMFile "build/Debug-iphoneos/JSON Demo.app.dSYM" "build/Debug-iphoneos/JSON Demo.app/JSON Demo"300296066#300296066#0(0"0(0#0#84"/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo8619926464#377"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/JSON Demo" -o "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app.dSYM"0#
+
+CLd "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo" normal armv6
+s300296065.390983
+e300296065.710294
+r1
+xLd
+x/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo
+xnormal
+xarmv6
+lSLF07#2@128"Link /Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo300296065#300296065#0(0"0(0#0#0"8623819360#886"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" -filelist "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv6/JSON Demo"0#
+
+CLd "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo" normal armv7
+s300296065.916181
+e300296066.001595
+r1
+xLd
+x/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo
+xnormal
+xarmv7
+lSLF07#2@128"Link /Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo300296065#300296066#0(0"0(0#0#0"8623409120#886"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" -filelist "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/Objects-normal/armv7/JSON Demo"0#
+
+CProcessInfoPlistFile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/Info.plist" JSON_Demo-Info.plist
+s300296063.068213
+e300296063.429400
+r1
+xProcessInfoPlistFile
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/Info.plist
+xJSON_Demo-Info.plist
+lSLF07#2@28"Process JSON_Demo-Info.plist300296063#300296063#0(0"0(0#0#60"/Users/donnstraight/Documents/JSON Demo/JSON_Demo-Info.plist8619792896#582"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JSON_Demo-Info.plist -genpkginfo "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/ResourceRules.plist" -o "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/Info.plist"0#
+
+CProcessPCH /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch.gch JSON_Demo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s300296063.811605
+e300296064.791983
+r1
+xProcessPCH
+x/var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch.gch
+xJSON_Demo_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile JSON_Demo_Prefix.pch300296063#300296064#0(0"0(0#0#60"/Users/donnstraight/Documents/JSON Demo/JSON_Demo_Prefix.pch8621785184#1690"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv7" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -c "/Users/donnstraight/Documents/JSON Demo/JSON_Demo_Prefix.pch" -o /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-avsqjtrzrdbtclgwsvxalyifoqxu/JSON_Demo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch.gch JSON_Demo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s300296063.810828
+e300296064.852077
+r1
+xProcessPCH
+x/var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch.gch
+xJSON_Demo_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile JSON_Demo_Prefix.pch300296063#300296064#0(0"0(0#0#60"/Users/donnstraight/Documents/JSON Demo/JSON_Demo_Prefix.pch8621998464#1690"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-generated-files.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-own-target-headers.hmap" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-all-target-headers.hmap" -iquote "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo-project-headers.hmap" "-F/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos" "-I/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/include" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources/armv6" "-I/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/DerivedSources" -c "/Users/donnstraight/Documents/JSON Demo/JSON_Demo_Prefix.pch" -o /var/folders/2n/2nRcbg4CH2OHHCVcwzWQWU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSON_Demo_Prefix-fbtezuinzqbnytgjfyhodmsuszex/JSON_Demo_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/donnstraight/Library/MobileDevice/Provisioning Profiles/D058B043-360B-4A9C-85CE-4A7F4241D014.mobileprovision" "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision"
+s300296066.096498
+e300296066.097678
+r1
+xProcessProductPackaging
+x/Users/donnstraight/Library/MobileDevice/Provisioning Profiles/D058B043-360B-4A9C-85CE-4A7F4241D014.mobileprovision
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/donnstraight/Library/MobileDevice/Provisioning Profiles/D058B043-360B-4A9C-85CE-4A7F4241D014.mobileprovision" "build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision"300296066#300296066#0(0"0(0#0#99"/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision8622793856#438"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/donnstraight/Library/MobileDevice/Provisioning Profiles/D058B043-360B-4A9C-85CE-4A7F4241D014.mobileprovision" -o "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent"
+s300296066.100223
+e300296066.115219
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent"300296066#300296066#0(0"0(0#0#108"/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent8621795552#444"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/donnstraight/Documents/JSON Demo/build/JSON Demo.build/Debug-iphoneos/JSON Demo.build/JSON Demo.xcent"0#
+
+CTouch "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"
+s300296066.097729
+e300296066.100037
+r1
+xTouch
+x/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app
+lSLF07#2@80"Touch /Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app300296066#300296066#0(0"0(0#0#0"8622225728#272"    cd "/Users/donnstraight/Documents/JSON Demo"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/donnstraight/Documents/JSON Demo/build/Debug-iphoneos/JSON Demo.app"0#
+
